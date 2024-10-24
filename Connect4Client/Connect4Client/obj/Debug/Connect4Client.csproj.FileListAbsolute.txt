@@ -1,0 +1,10 @@
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\bin\Debug\Connect4Client.exe.config
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\bin\Debug\Connect4Client.exe
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\bin\Debug\Connect4Client.pdb
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\obj\Debug\Connect4Client.csproj.AssemblyReference.cache
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\obj\Debug\Connect4Client.Form1.resources
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\obj\Debug\Connect4Client.Properties.Resources.resources
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\obj\Debug\Connect4Client.csproj.GenerateResource.cache
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\obj\Debug\Connect4Client.csproj.CoreCompileInputs.cache
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\obj\Debug\Connect4Client.exe
+C:\Users\Ysani Pena\source\repos\Connect4Client\Connect4Client\obj\Debug\Connect4Client.pdb
